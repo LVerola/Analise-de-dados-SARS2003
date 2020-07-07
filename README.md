@@ -7,6 +7,18 @@
 ## Origem dos dados
 https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset
 
+## Tópicos
+
+-Casos Cumulativos
+
+-10 Países com mais Casos
+
+-10 Países com mais Mortes
+
+-10 Países com mais Recuperados
+
+-10 Países com a pior Mortalidade e a melhor texa de Recuperação
+
 ## Aluno
 -Luis Gabriel Verola Santos
 
